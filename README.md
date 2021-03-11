@@ -3,18 +3,19 @@
 &nbsp;
 *Pega HTML e traz parametros para buscas unicos usando as tags e parametros*</br>
 
-*O DiferHtml, serve para quando vocÍ precisa usar chaves unicas para pesquisar informaÁıes no html que vocÍ baixou e fez webscrap.*</br>
-*Ele vai transformar o html em uma tabela, e retirar todo atributo que tem mais de 1 vez, assim voce pode pegar uma tag e baixar a informaÁ„o certa usando aquela configuraÁ„o no Beatfulsoup 4 nos metodos de buscar tags com parametros para baixar dados.*</br>
+*O DiferHtml, serve para quando voc√™ precisa usar chaves unicas para pesquisar informa√ß√µes no html que voc√™ baixou e fez webscrap.*</br>
+*Ele vai transformar o html em uma tabela, e retirar todo atributo que tem mais de 1 vez, assim voce pode pegar uma tag e baixar a informa√ß√£o certa usando aquela configura√ß√£o no Beatfulsoup 4 nos metodos de buscar tags com parametros para baixar dados.*</br>
 
 &nbsp;
 &nbsp;
 
-*Õndices*
+*√çndices*
 &nbsp;
-- <a href="https://github.com/geniodev/VozTexto#voztexto" target="_self">Inicio</a>
-- <a href='https://github.com/geniodev/VozTexto#bibliotecas-instalar' target='_self'>Bibliotecas Install</a>
-- <a href='https://github.com/geniodev/VozTexto#documenta%C3%A7%C3%A3o---f%C3%B3rmulas' target='_self'>DocumentaÁ„o</a>
-  - <a href='https://github.com/geniodev/VozTexto#remove-acentos-das-strings-inseridas-no-txt' target='_self'>Remove acentos das strings inseridas no 'txt'</a>
+- <a href="https://github.com/geniodev/DiferHtml#diferhtml" target="_self">Inicio</a>
+- <a href='https://github.com/geniodev/DiferHtml#bibliotecas-instalar' target='_self'>Bibliotecas Install</a>
+- <a href='https://github.com/geniodev/DiferHtml#documenta%C3%A7%C3%A3o---f%C3%B3rmulas' target='_self'>Documenta√ß√£o</a>
+
+  - <a href='https://github.com/geniodev/DiferHtml#htmltxt-passe-o-html-completo-em-forma-de-string-contendo-tudotags-atributos' target='_self'>Remove acentos das strings inseridas no 'txt'</a>
     - <a href='https://github.com/geniodev/VozTexto#remove-acentos-das-strings-inseridas-no-txt' target='_self'>remover_acentos(txt)</a>
   - <a href='https://github.com/geniodev/VozTexto#ouvi-a-fala-de-voz-e-retorna-o-texto-sem-acentos' target='_self'>Ouvi a fala de voz e retorna o texto sem acentos</a>
     - <a href='https://github.com/geniodev/VozTexto#ouvi-a-fala-de-voz-e-retorna-o-texto-sem-acentos' target='_self'>ListenWorkd()</a>
@@ -40,14 +41,14 @@ pip install numpy
 ```
 
 &nbsp;
-# DocumentaÁ„o - FÛrmulas:</br>
+# Documenta√ß√£o - F√≥rmulas:</br>
 
-#### Arquivo: Uso passe o nome do arquivo salvo em html
-#### HtmlTxt: Passe o html completo em forma de string contendo tudo(tags, atributos...)
-Principal(Arquivo, HtmlTxt)
+#### Diferenciador de HTML
+###### Arquivo: Uso passe o nome do arquivo salvo em html
+###### HtmlTxt: Passe o html completo em forma de string contendo tudo(tags, atributos...)
 > `Principal(Arquivo=None, HtmlTxt=None)`
 
 
 &nbsp;
 <h6 align="center">Desenvolvedor: RA (Ricardo Andrade)</h6>
-<h6 align="center">Vers„o: 2.0.0</h6>
+<h6 align="center">Vers√£o: 2.0.0</h6>
