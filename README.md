@@ -9,7 +9,7 @@
 &nbsp;
 &nbsp;
 
-*Índices*
+*Índice*
 &nbsp;
 - <a href="https://github.com/geniodev/DiferHtml#diferhtml" target="_self">Inicio</a>
 - <a href='https://github.com/geniodev/DiferHtml#bibliotecas-instalar' target='_self'>Bibliotecas Install</a>
