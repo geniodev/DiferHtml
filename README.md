@@ -16,7 +16,7 @@
 - <a href='https://github.com/geniodev/DiferHtml#documenta%C3%A7%C3%A3o---f%C3%B3rmulas' target='_self'>Documentação</a>
 
   - <a href='https://github.com/geniodev/DiferHtml#diferenciador-de-html' target='_self'>Diferenciador de HTML</a>
-    - <a href='https://github.com/geniodev/DiferHtml#diferenciador-de-html' target='_self'>Principal(Arquivo=None, HtmlTxt=None)</a>
+    - <a href='https://github.com/geniodev/DiferHtml#diferenciador-de-html' target='_self'>Principal()</a>
 
 
 
